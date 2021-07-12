@@ -40,6 +40,7 @@ span {
   border-radius: 13px;
   font-size: 14px;
   font-weight: 100;
+  box-shadow: rgba(30, 109, 255, 0.158) 2px 2px 5px;
 }
 .leftbox {
   width: 33%;
@@ -51,4 +52,5 @@ span {
   margin: 10px 20px;
 }
 .repimg {
+  box-shadow: gray 2px 2px 5px;
 }
